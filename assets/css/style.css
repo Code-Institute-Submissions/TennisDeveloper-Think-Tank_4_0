@@ -1,3 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&family=Quicksand:wght@400;500&family=Shadows+Into+Light&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
 body {
-    background-color: red;
+    font-family: Quicksand;
+    font-weight: 300;
+    color:#3a3a3a
+}
+
+/* Heading and logo */
+h1, h2 {
+    font-family: Quicksand, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #E2B659;
+}
+
+#think-tank-logo {
+    float: left;
+    font-size: 300%;
+    margin-left: 10px;
 }
