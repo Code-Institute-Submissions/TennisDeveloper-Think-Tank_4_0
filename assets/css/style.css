@@ -12,7 +12,7 @@ body {
 }
 
 /* Heading and logo */
-h1, h2 {
+h1 {
     font-family: Quicksand, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -79,27 +79,32 @@ h1, h2 {
     to {transform: scale(1.1);}
 }
 
-#cover-text h1 {
+#cover-text /*h1*/ {
     height:200px;
     width: 800px;
     text-align: center;
     color: white;
+    margin: 0 auto;
     bottom:100px;
     right: 150px;
     position:absolute;
-    font-size: x-large;
+    font-size: 115%;
+    font-weight: 500;
 
 }
 
 #cover-text a {
-
-height:200px;
-width: 800px;
-text-align: center;
 color: white;
-bottom:2px;
-right: 150px;
-position:absolute;
-font-size: x-large;
+font-weight: 600;
+} 
 
+#cover-text li {
+    list-style-type: none;
+
+/*pharma consultancy section */
+#special-consultancy{
+    height:fit-content;
+    width: 100%;
+    padding-top: 30px;
 }
+
