@@ -21,8 +21,8 @@ h1 {
 
 #think-tank-logo {
     float: left;
-    font-size: 300%;
-    margin-left: 10px;
+    font-size: 270%;
+    margin-left: 8px;
 }
 
 #menu {
@@ -55,6 +55,7 @@ h1 {
 
 .active {
     border-bottom: 1px solid black;
+
 }
 
 /* Home main image */
@@ -99,12 +100,79 @@ font-weight: 600;
 } 
 
 #cover-text li {
-    list-style-type: none;
-
-/*pharma consultancy section */
-#special-consultancy{
-    height:fit-content;
-    width: 100%;
-    padding-top: 30px;
+    list-style-type: none; 
 }
 
+/*pharma consultancy section */
+#special-consultancy {
+    height:600px;
+    margin-top: 30px;
+
+}
+
+#special-heading {
+    font-size: 200%;
+    text-align: center;
+    margin: 20px 0;
+}
+
+#special-consultancy-left {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    background-color: whitesmoke;
+}
+
+#special-consultancy-right {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    background-color: whitesmoke;
+}
+
+#special-consultancy-center {
+    padding-top: 30px;
+    width: 33%;
+    margin: 0 auto;
+    background-color: whitesmoke;
+}
+
+.special-consultancy-left-heading {
+   width: 90%;
+   float: left;
+   line-height: 20px;
+   margin-bottom: 50px;
+   clear:both;
+   text-align: left;
+   padding-left: 40px;
+}
+
+
+
+hr {
+    margin: 5px 0;
+    width: 100%;
+}
+
+.special-consultancy-right-heading {
+    width: 90%;
+    float: right;
+    line-height: 20px;
+    margin-bottom: 50px;
+    clear:both;
+    text-align: left;
+    list-style-position:outside;
+    padding-left: 20px;
+ }
+ 
+ .special-consultancy-right-heading > h3 {
+     color:#7F4D3E;
+     font-weight: 600;
+     text-align: center;
+ }
+
+ .special-consultancy-left-heading > h3 {
+    color:#7F4D3E;
+    font-weight: 600;
+    text-align: center;
+}
