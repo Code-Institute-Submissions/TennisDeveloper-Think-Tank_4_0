@@ -244,3 +244,16 @@ hr {
     background-color: #fafafa;
     color: #7F4D3E;
 }
+
+/* contacts */
+
+#contacts {
+    width: 100%;
+    height: 200px;
+    padding: 30px;
+    margin: 0 auto;
+}
+
+#contacts-image {
+    padding: 30px;
+}
