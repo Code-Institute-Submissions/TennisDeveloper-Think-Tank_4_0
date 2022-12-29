@@ -20,35 +20,85 @@
 
         <nav id="menu">
             <ul>
-                <li><a href="contacts.html" >Contacts</a></li>
+                <li><a href="contacts.html">Contacts</a></li>
                 <li><a href="book_call.html" class="active">Book a Call or Project</a></li>
                 <li><a href="challenges.html">Challenges in Pharma Business Development</a></li>
-                <li><a href="thinktank4_0.html" >What is Think Tank 4.0</a></li>
-                <li><a href="index.html" >Home</a></li>
+                <li><a href="thinktank4_0.html">What is Think Tank 4.0</a></li>
+                <li><a href="index.html">Home</a></li>
 
             </ul>
         </nav>
     </header>
 
     <section>
-        <hr id="footer-border">
+
+        <div class="book_call">
+
+            <div>
+                <h3 style="color:#7F4D3E;">Prices of Projects and Consultancy Calls:</h3>
+            </div>
+            <div>
+                <ul style="line-height: 25px;">
+                    <li>The daily rate for project related tasks for one expert is 2500 CHF.</li>
+                    <li>The price for 1 hour consultancy call is 500 CHF. If you book one hour, you will get an
+                        additional hour for free.</li>
+                </ul>
+            </div>
+
+        </div>
     </section>
 
-    
+    <section class="form-section">
+        <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-form">
+            <h3>1. Fill-in Your Details Below:</h3>
+            <label for="fname">First Name</label>
+            <input id="fname" name="first_name" type="text" required class="text-input">
+
+            <label for="lname">Last Name</label>
+            <input id="lname" name="last_name" type="text" required class="text-input">
+
+            <label for="company">Company</label>
+            <input id="company" name="company" type="text" required class="text-input">
+
+            <label for="position">Position</label>
+            <input id="position" name="position" type="text" required class="text-input">
+
+            <label for="email">Email Address</label>
+            <input type="email" id="email" name="email_address" required class="text-input">
+
+            <label for="topic">Please specify in more details below the consultancy topic</label>
+            <textarea id="topic" name="topic" required class="text-input" rows="30" cols="40">
+            </textarea>
+
+
+
+            <input class="join-button" type="submit" value="Submit">
+
+            <div ><h3 class="text-input-call" >2. Book a call with us here: </h3>
+                <a href="https://calendly.com/" target="_blank" rel="noopener" aria-label="Book a consultancy call with us via our live calendar on Calendly (opens in a separate window).">Think Tank 4.0 Live Calendar</a>
+            </div>
+
+        </form>
+        
+    </section>
+
+
 
     <footer>
         <hr id="footer-border">
         <div class="footer-text"><strong>
-            Do you want to get free tips from experts in Think Tank 4.0 with more than 25 years of experience in pharma?</strong>
+                Do you want to get free tips from experts in Think Tank 4.0 with more than 25 years of experience in
+                pharma?</strong>
         </div>
         <div class="footer-text">
             Do you want to avoid mistakes, which could cost you millions of dollars?
         </div>
         <div class="footer-text">
-            You need to do only one thing, to write your email below. You will get reports from Think Tank 4.0 about business development 3-4 times per month.
+            You need to do only one thing, to write your email below. You will get reports from Think Tank 4.0 about
+            business development 3-4 times per month.
         </div>
-        
-        <section >
+
+        <section>
             <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-form">
                 <h3>Let's get you signed up!</h3>
                 <label for="email">Email Address</label>
@@ -57,8 +107,8 @@
             </form>
         </section>
 
-        
-       
+
+
 
     </footer>
 

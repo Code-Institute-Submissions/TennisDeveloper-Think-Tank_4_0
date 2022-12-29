@@ -257,3 +257,22 @@ hr {
 #contacts-image {
     padding: 30px;
 }
+
+/* Book a call or project */
+.book_call {
+    clear: both;
+    padding: 30px;
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+    border: 1px solid #7F4D3E;
+}
+
+.text-input-call {
+    background: transparent;
+    color: #7F4D3E;
+    width: 100%;
+    height: 25px;
+    margin: 10px 0 10px 0;
+ 
+}
