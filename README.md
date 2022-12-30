@@ -2,20 +2,20 @@
 
 Welcome Think Tank 4.0 Website Users,
 
-Think Tank 4.0 is a business-to-business site, which provides strategic medical consultation offers for pharma companies, venture capital investments funds, biotechs, start-ups, or blockchain developers of medical applications.
+Think Tank 4.0 is a business-to-business site, which provides strategic medical consultation offers for pharma companies, venture capital investment funds, biotechs, start-ups, or blockchain developers of medical applications.
 
-Think Tank 4.0 groups approximately ten top brain individuals with more than 30 university degrees and 20+ years of experience from pharma. Think Tank 4.0 site is a platform where pharma companies can book a consultancy calls or projects with our consultants.
+Think Tank 4.0 groups approximately ten top-brain individuals with more than 30 university degrees and 20+ years of experience in pharma. Think Tank 4.0 site is a platform where pharma companies can book consultancy calls or projects with our consultants.
 
 ## Existing Features
 
 1. Navigation Bar
-    - Featured on all pages, the full responsive navigation bar includes links to the Logo, Home page, What is Think Tank 4.0, Challenges in Pharma Business Development, Book a Call or Project and Contacts page and is identical in each page to allow for easy navigation.
+    - Featured on all pages, the full responsive navigation bar includes links to the Logo, Home page, What is Think Tank 4.0, Challenges in Pharma Business Development, Book a Call or Project and Contacts page and is identical on each page to allow for easy navigation.
     - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
  ![NavMenu, the navigation menu image](/assets/images/NavMenu.png)
 
 2. The Landing Page Image
-    - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
+    - The landing includes a photograph with text overlay to allow the user to see exactly the purpose of the page.
     - This section introduces the user to medical consultation services with an eye-catching animation to grab their attention.
 
 ![landing_page_image, the landing page image](/assets/images/landing_page_image.png)
@@ -28,12 +28,12 @@ Think Tank 4.0 groups approximately ten top brain individuals with more than 30 
 
 
 4. Footer
-    - The footer section includes form with the offer to sign-up for special medical reports, which could user receive 3-4 times per month. 
+    - The footer section includes a form with the offer to sign-up for special medical reports, which could users receive 3-4 times per month. 
 
 ![footer, the footer section](/assets/images/footer.png)
 
 5. Book a call or Project Page
-    - User can fill-in the form his/her personal details and introduce the topic of discussion or project. Afterwards he/she can view the live calendar, where it is possible to book a call.
+    - The user can fill in the form with his/her personal details and introduce the topic of discussion or project. Afterward he/she can view the live calendar, where it is possible to book a call.
 
 ![book_a_call, the section for booking a call](/assets/images/book_a_call.png)
 
@@ -44,7 +44,7 @@ Think Tank 4.0 groups approximately ten top brain individuals with more than 30 
 ![contacts, the contacts section with social media links](/assets/images/contacts_mk.png)
 
 7. Features Left to implement
-    - Email distribution of the free medical reports. Webinar page, where the user could see relevant discussions with experts.
+    - Email distribution of free medical reports. Webinar page, where the user could see relevant discussions with experts.
 
 
 ## Validator Testing
@@ -61,8 +61,8 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 ## Credits
 
 - Content
-    - Instructions on how to implement the logo and navigation menu was taken from Love Running website.
-    - Instructions on how to implement landing page image with animation effects and cover text was taken from Love Running website.
-    - Instructions on how to implement Sing Up section was taken from IvoToman.cz website and Love Running website.
+    - Instructions on implementing the logo and navigation menu were taken from the *[Love Running](https://tennisdeveloper.github.io/love-running/)* website.  
+    - Instructions on implementing the landing page image with animation effects and cover text were taken from the *[Love Running](https://tennisdeveloper.github.io/love-running/)* website.  
+    - Instructions on implementing the Sign Up section were taken from *[Ivo Toman](https://www.ivotoman.sk)* website and the *[Love Running](https://tennisdeveloper.github.io/love-running/)* website.  
     - The icons were taken from *[Font Awesome](https://www.fontawesome.com)*.
 
