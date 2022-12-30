@@ -12,7 +12,7 @@ Think Tank 4.0 groups approximately ten top-brain individuals with more than 30 
     - Featured on all pages, the full responsive navigation bar includes links to the Logo, Home page, What is Think Tank 4.0, Challenges in Pharma Business Development, Book a Call or Project and Contacts page and is identical on each page to allow for easy navigation.
     - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
- ![NavMenu, the navigation menu image](/assets/images/NavMenu.png)
+ ![nav_menu, the navigation menu image](/assets/images/nav_menu.png)
 
 2. The Landing Page Image
     - The landing includes a photograph with text overlay to allow the user to see exactly the purpose of the page.
