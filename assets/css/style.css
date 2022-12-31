@@ -281,8 +281,6 @@ hr {
     color: #7F4D3E;
 }
 
-
-
 /* Book a call or project */
 .book_call {
     clear: both;
@@ -339,6 +337,21 @@ hr {
 }
 
 #challenges-hypertext-link {
+    color: #7F4D3E;
+}
+
+/* What is Think Tank 4.0 */
+#think_tank {
+    clear: both;
+    padding: 30px;
+}
+
+#inside-image {
+    padding: 30px;
+    width: 65%;
+}
+
+.quotation_mark {
     color: #7F4D3E;
 }
 
