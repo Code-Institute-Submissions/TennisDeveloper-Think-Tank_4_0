@@ -131,6 +131,7 @@ h3 {
     font-size: 200%;
     text-align: center;
     margin: 20px 0;
+    color:#E2B659;
 }
 
 #special-consultancy-left {
@@ -279,6 +280,12 @@ hr {
 #color-i-element {
     color: #7F4D3E;
 }
+
+#color-i-element a {
+    color: #7F4D3E;
+}
+
+
 
 /* Book a call or project */
 .book_call {
