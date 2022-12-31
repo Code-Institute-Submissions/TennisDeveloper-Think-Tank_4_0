@@ -6,10 +6,12 @@ Think Tank 4.0 is a business-to-business site, which provides strategic medical 
 
 Think Tank 4.0 groups approximately ten top-brain individuals with more than 30 university degrees and 20+ years of experience in pharma. Think Tank 4.0 site is a platform where pharma companies can book consultancy calls or projects with our consultants.
 
+![website_screenshots, the screenshots of the website showing the responsive elements](/assets/images/website_screenshots.png)
+
 ## Existing Features
 
 1. Navigation Bar
-    - Featured on all pages, the full responsive navigation bar includes links to the Logo, Home page, What is Think Tank 4.0, Challenges in Pharma Business Development, Book a Call or Project and Contacts page and is identical on each page to allow for easy navigation.
+    - Featured on all pages, the full responsive navigation bar includes links to the Logo, Home page, What is Think Tank 4.0, Challenges in Pharma Business Development, Book a Call or Project, and Contacts page and is identical on each page to allow for easy navigation.
     - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
  ![nav_menu, the navigation menu image](/assets/images/nav_menu.png)

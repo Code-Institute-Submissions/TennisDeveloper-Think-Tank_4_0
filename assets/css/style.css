@@ -353,7 +353,7 @@ hr {
 
     #special-consultancy {
         width: 65%;
-        height: 1100px;
+        height: 1200px;
         margin: 0 auto;
     }
 
@@ -386,5 +386,27 @@ hr {
         display: inline-block;
 
     }
+
+}
+
+@media screen and (max-width: 600px) {
+    #cover-text {
+        left: 0;
+        width: 50%;
+        font-size: 100%;
+    }
+
+    #cover-text h2 {
+
+        font-size: 100%;
+    }
+
+    #special-consultancy {
+        width: 65%;
+        height: 1350px;
+        margin: 0 auto;
+    }
+
+
 
 }
