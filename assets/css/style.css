@@ -375,8 +375,17 @@ hr {
         width: 100%;
         padding: 0;
         text-align: left;
+        
 
     }
+
+    #special-consultancy-left li,
+    #special-consultancy-right li {
+        list-style-type: none;
+        text-align: left;
+        padding: 0;
+    }
+
 
     #special-consultancy-center {
         clear: both;
