@@ -37,7 +37,8 @@ h3 {
 }
 
 #menu li {
-
+    clear: left;
+    margin-bottom: 20px;
     float: right;
     list-style-type: none;
     margin-right: 23px;
@@ -92,8 +93,7 @@ h3 {
     }
 }
 
-#cover-text
-    {
+#cover-text {
     height: 200px;
     width: 800px;
     text-align: center;
@@ -131,7 +131,7 @@ h3 {
     font-size: 200%;
     text-align: center;
     margin: 20px 0;
-    color:#E2B659;
+    color: #E2B659;
 }
 
 #special-consultancy-left {
@@ -271,6 +271,7 @@ hr {
     height: 200px;
     padding: 30px;
     margin: 0 auto;
+    clear: both;
 }
 
 #contacts-image {
@@ -324,12 +325,12 @@ hr {
 /* challenges */
 
 #challenges {
-    padding: 50px;
+    padding: 20px;
     line-height: 25px;
+    clear: both;
 }
 
 #challenges h2 {
-    padding: 50px;
     color: #7F4D3E;
     text-align: center;
 
@@ -344,4 +345,38 @@ hr {
 
 #challenges-hypertext-link {
     color: #7F4D3E;
+}
+
+/* Media queries */
+
+@media screen and (max-width: 1120px) {
+    #cover-text {
+        left: 0;
+        width: 60%;
+
+    }
+
+    #special-consultancy {
+        width: 65%;
+        height: 1100px;
+        margin: 0 auto;
+    }
+
+    #special-consultancy-left,
+    #special-consultancy-right {
+        width: 100%;
+        padding: 0;
+
+    }
+
+    #special-consultancy-center {
+        clear: both;
+        width: 100%;
+
+    }
+
+    #contacts-image {
+        width: 65%;
+    }
+
 }

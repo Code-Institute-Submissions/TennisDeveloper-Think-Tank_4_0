@@ -49,13 +49,14 @@ Think Tank 4.0 groups approximately ten top-brain individuals with more than 30 
 
 ## Validator Testing
 
-1. No HTML errors were found when passing through the *[W3C Validator](https://www.markdownguide.org)*.
+1. No HTML errors were found when passing through the *[W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftennisdeveloper.github.io%2FThink-Tank_4.0%2F)*.
 
-2. No CSS errors were found when passing through the *[Jigsaw Validator](https://www.markdownguide.org)*.
+2. No CSS errors were found when passing through the *[Jigsaw Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftennisdeveloper.github.io%2FThink-Tank_4.0%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=cs)*.
 
 ## Deployment
 The site was deployed to GitHub pages. 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
+The live link can be found here - https://tennisdeveloper.github.io/Think-Tank_4.0/index.html
+
 
 
 ## Credits
