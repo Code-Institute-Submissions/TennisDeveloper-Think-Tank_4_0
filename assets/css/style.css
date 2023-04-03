@@ -328,6 +328,7 @@ hr {
     padding: 20px;
     line-height: 25px;
     clear: both;
+    margin-left: 20px;
 }
 
 #challenges h2 {
@@ -350,7 +351,7 @@ hr {
 /* What is Think Tank 4.0 */
 #think_tank {
     clear: both;
-    padding: 30px;
+    margin-left: 30px;
 }
 
 #inside-image {
@@ -398,8 +399,16 @@ hr {
         display: none;
     }
 
+    #inside-image {
+        max-width: 100%;
+        height: auto;
+    }
+
+    
+
     #contacts-image {
-        width: 65%;
+        max-width: 100%;
+        height: auto;
     }
 
     #menu {
@@ -445,6 +454,7 @@ hr {
         height: 100%;
         padding: 5px, 5px, 5px, 5px;
     }
+
 
 }
 
