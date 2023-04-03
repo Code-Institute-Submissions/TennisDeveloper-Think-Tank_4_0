@@ -190,20 +190,23 @@ hr {
 #rectangle {
     width: 300px;
     height: 300px;
-    padding: 30px 30px 30px 30px;
+    padding: 20px 20px 20px 20px;
     border-style: solid;
-    border-color: whitesmoke;
-    border-width: 5px;
+    border-color: #fafafa;
+    border-width: 1px;
     border-radius: 20%;
     margin: 0 auto;
 
 }
 
+
 #doctor-image {
 
-    background: url('../images/experts.jpg') no-repeat center top;
+    background: url('../images/misacek_index_page_picture.jpg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
     border-radius: 20%;
-    background-size: auto;
     height: 100%;
 }
 
