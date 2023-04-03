@@ -190,7 +190,7 @@ hr {
 #rectangle {
     width: 300px;
     height: 300px;
-    padding: 20px 20px 20px 20px;
+    padding: 10px 10px 10px 10px;
     border-style: solid;
     border-color: #fafafa;
     border-width: 1px;
@@ -366,43 +366,36 @@ hr {
 
 @media screen and (max-width: 1200px) {
     #cover-text {
-        left: 0;
+        margin: 0 auto;
         width: 60%;
+        right: 150px;
 
     }
 
     #special-consultancy {
         width: 65%;
-        height: 1200px;
+        height: 1000px;
         margin: 0 auto;
     }
 
-    .special-consultancy-left-heading {
-        padding-left: 60px;
-    }
-
-    .special-consultancy-right-heading {
-        padding: 0px;
-    }
+   
     #special-consultancy-left,
     #special-consultancy-right {
         width: 100%;
-        padding: 0;
-        text-align: left;
-    }
-
-    #special-consultancy-left li,
-    #special-consultancy-right li {
-        list-style-type: none;
-        text-align: left;
+        float: left;
         padding: 0;
     }
 
-
+   
     #special-consultancy-center {
         clear: both;
         width: 100%;
+        float: left;
+        padding: 0;
+    }
 
+    hr {
+        display: none;
     }
 
     #contacts-image {
@@ -423,23 +416,19 @@ hr {
 
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 740px) {
+
     #cover-text {
-        left: 0;
+        margin: 0 auto;
         width: 50%;
-        font-size: 100%;
     }
 
     #cover-text h2 {
-
         font-size: 100%;
     }
 
     #special-consultancy {
-        width: 65%;
-        height: 1350px;
-        margin: 0 auto;
-        font-size: 90%;
+        height: 1200px;
     }
 
     #special-heading {
@@ -460,7 +449,10 @@ hr {
 }
 
 @media screen and (max-width: 500px) {
-    
+    #cover-text {
+        margin: 0 auto;
+        right: 120px;
+    }
 
     #special-heading {
         font-size: 160%;
@@ -481,9 +473,13 @@ hr {
 }
 
 @media screen and (max-width: 450px) {
+    #cover-text {
+        margin: 0 auto;
+        width: 45%;
+        bottom: 150px;
+
+    }
     
-
-
     #rectangle {
         width: 220px;
         height: 220px;
@@ -500,6 +496,14 @@ hr {
 }
 
 @media screen and (max-width: 380px) {
+
+    #cover-text {
+        margin: 0 auto;
+        width: 40%;
+        font-size: 100%;
+        bottom: 200px;
+
+    }
     
     #special-heading {
         font-size: 140%;
@@ -521,6 +525,14 @@ hr {
 }
 
 @media screen and (max-width: 340px) {
+
+    #cover-text {
+        margin: 0 auto;
+        width: 40%;
+        font-size: 100%;
+        bottom: 200px;
+
+    }
 
     #special-consultancy {
         width: 65%;
@@ -544,6 +556,13 @@ hr {
 }
 
 @media screen and (max-width: 340px) {
+
+    #cover-text {
+        margin: 0 auto;
+        width: 40%;
+        font-size: 100%;
+
+    }
     
     #rectangle {
         width: 180px;
