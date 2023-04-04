@@ -263,11 +263,10 @@ hr {
 /* contacts */
 
 #contacts {
-    width: 100%;
     height: 200px;
-    padding: 30px;
     margin: 0 auto;
     clear: both;
+    padding-left: 10px;
 }
 
 #contacts-image {
@@ -483,6 +482,11 @@ hr {
         height: 100%;
         padding: 0px;
     }
+
+    #think-tank-logo {
+        text-align: center;
+        font-size: 220%;
+    }
 }
 
 @media screen and (max-width: 380px) {
@@ -523,6 +527,11 @@ hr {
         margin: 0 auto;
     }
 
+    #think-tank-logo {
+        text-align: center;
+        font-size: 200%;
+    }
+
 }
 
 @media screen and (max-width: 340px) {
@@ -550,6 +559,11 @@ hr {
         background-size: 100%;
         height: 100%;
         padding: 0px;
+    }
+
+    #think-tank-logo {
+        text-align: center;
+        font-size: 180%;
     }
 
 }
