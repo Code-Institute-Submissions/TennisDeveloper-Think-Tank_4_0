@@ -74,9 +74,9 @@ Frameworks, libraries and programs:
 
 ## Validator Testing
 
-1. No HTML errors were found when passing through the *[W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftennisdeveloper.github.io%2FThink-Tank_4.0%2F)*.
+1. No HTML errors were found when passing through the *[W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftennisdeveloper.github.io%2FThink-Tank_4_0%2F)*.
 
-2. No CSS errors were found when passing through the *[Jigsaw Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftennisdeveloper.github.io%2FThink-Tank_4.0%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=cs)*.
+2. No CSS errors were found when passing through the *[Jigsaw Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftennisdeveloper.github.io%2FThink-Tank_4_0%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=cs)*.
 
 
 ## Deployment
@@ -86,7 +86,7 @@ Frameworks, libraries and programs:
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://tennisdeveloper.github.io/Think-Tank_4.0/index.html
+The live link can be found here - https://tennisdeveloper.github.io/Think-Tank_4_0/
 
 
 ## Credits
