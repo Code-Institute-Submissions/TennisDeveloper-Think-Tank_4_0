@@ -33,7 +33,6 @@ h3 {
 
 #menu {
     font-size: 115%;
-
 }
 
 #menu li {
@@ -58,7 +57,6 @@ h3 {
 
 .active {
     border-bottom: 1px solid black;
-
 }
 
 /* Home main image */
@@ -99,7 +97,6 @@ h3 {
     position: absolute;
     font-size: 115%;
     font-weight: 500;
-
 }
 
 #cover-text h2 {
@@ -148,7 +145,6 @@ h3 {
     padding-top: 30px;
     width: 33%;
     margin: 0 auto;
-
 }
 
 .special-consultancy-left-heading {
@@ -196,12 +192,10 @@ hr {
     border-width: 1px;
     border-radius: 20%;
     margin: 0 auto;
-
 }
 
 
 #doctor-image {
-
     background: url('../images/misacek_index_page_picture.jpg');
     background-size: contain;
     background-position: center;
@@ -304,7 +298,6 @@ hr {
     width: 100%;
     height: 25px;
     margin: 25px 0 10px 0;
-
 }
 
 .text-area-input {
@@ -315,7 +308,6 @@ hr {
     height: 60px;
     margin: 25px 0 10px 0;
     text-align: left;
-
 }
 
 #unordered_list_style {
@@ -335,7 +327,6 @@ hr {
 #challenges h2 {
     color: #7F4D3E;
     text-align: center;
-
 }
 
 #challenges>h3 {
@@ -371,7 +362,6 @@ hr {
         margin: 0 auto;
         width: 60%;
         right: 150px;
-
     }
 
     #special-consultancy {
@@ -380,14 +370,12 @@ hr {
         margin: 0 auto;
     }
 
-   
     #special-consultancy-left,
     #special-consultancy-right {
         width: 100%;
         float: left;
         padding: 0;
     }
-
    
     #special-consultancy-center {
         clear: both;
@@ -417,13 +405,11 @@ hr {
         float: right;
         margin-left: 20px;
         display: inline-block;
-
     }
 
     #contacts, #think_tank {
         padding-bottom: 200px;
     }
-
 }
 
 @media screen and (max-width: 740px) {
@@ -447,17 +433,13 @@ hr {
 
     #rectangle {
         padding: 5px;
-    
     }
     
     #doctor-image {
         background-size: 100%;
         height: 100%;
-        padding: 5px, 5px, 5px, 5px;
+        padding: 5px 5px 5px 5px;
     }
-
-
-
 }
 
 @media screen and (max-width: 500px) {
@@ -469,11 +451,11 @@ hr {
     #special-heading {
         font-size: 160%;
     }
+    
     #rectangle {
         width: 250px;
         height: 250px;
         padding: 5px;
-    
     }
     
     #doctor-image {
@@ -481,7 +463,6 @@ hr {
         height: 100%;
         padding: 0px;
     }
-
 }
 
 @media screen and (max-width: 450px) {
@@ -489,14 +470,12 @@ hr {
         margin: 0 auto;
         width: 45%;
         bottom: 150px;
-
     }
     
     #rectangle {
         width: 220px;
         height: 220px;
         padding: 5px;
-    
     }
     
     #doctor-image {
@@ -504,7 +483,6 @@ hr {
         height: 100%;
         padding: 0px;
     }
-
 }
 
 @media screen and (max-width: 380px) {
@@ -514,7 +492,6 @@ hr {
         width: 40%;
         font-size: 100%;
         bottom: 200px;
-
     }
     
     #special-heading {
@@ -525,7 +502,6 @@ hr {
         width: 200px;
         height: 200px;
         padding: 5px;
-    
     }
     
     #doctor-image {
@@ -543,7 +519,6 @@ hr {
         width: 40%;
         font-size: 100%;
         bottom: 200px;
-
     }
 
     #special-consultancy {
@@ -556,7 +531,6 @@ hr {
         width: 180px;
         height: 180px;
         padding: 5px;
-    
     }
     
     #doctor-image {
@@ -573,14 +547,12 @@ hr {
         margin: 0 auto;
         width: 40%;
         font-size: 100%;
-
     }
     
     #rectangle {
         width: 180px;
         height: 180px;
         padding: 5px;
-    
     }
     
     #doctor-image {
@@ -588,5 +560,4 @@ hr {
         height: 100%;
         padding: 0px;
     }
-
 }
