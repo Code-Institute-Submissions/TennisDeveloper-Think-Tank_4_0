@@ -8,6 +8,16 @@ Think Tank 4.0 groups approximately ten top-brain individuals with more than 30 
 
 ![website_screenshots, the screenshots of the website showing the responsive elements](/assets/images/website_screenshots.png)
 
+## Color Scheme
+I have choosen following colors to my site:
+- #E2B659
+- #7F4D3E
+
+## Typography
+I have choosen Qucksand Google Font to my site:
+
+![font_screenshot, the screenshots of the google font Quicksand](/assets/images/quicksand_font.png)
+
 ## Existing Features
 
 1. Navigation Bar
@@ -48,6 +58,19 @@ Think Tank 4.0 groups approximately ten top-brain individuals with more than 30 
 7. Features Left to implement
     - Email distribution of free medical reports. Webinar page, where the user could see relevant discussions with experts.
 
+
+## Technologies Used
+Programming languages:
+ - HTML, CSS
+
+Frameworks, libraries and programs: 
+ - Balsamiq - Used to create wireframes.
+ - Git - For version control.
+ - Github - To save and store the files for the website.
+ - Google Fonts - To import the fonts used on the website.
+ - Font Awesome - For the iconography on the website.
+ - Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
+ - Am I Responsive? To show the website image on a range of devices.
 
 ## Validator Testing
 
