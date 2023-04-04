@@ -329,6 +329,7 @@ hr {
     line-height: 25px;
     clear: both;
     margin-left: 20px;
+    padding-bottom: 200px;
 }
 
 #challenges h2 {
@@ -400,15 +401,11 @@ hr {
     }
 
     #inside-image {
-        max-width: 100%;
-        height: auto;
+        display: none;
     }
 
-    
-
     #contacts-image {
-        max-width: 100%;
-        height: auto;
+        display: none;
     }
 
     #menu {
@@ -421,6 +418,10 @@ hr {
         margin-left: 20px;
         display: inline-block;
 
+    }
+
+    #contacts, #think_tank {
+        padding-bottom: 200px;
     }
 
 }
@@ -454,6 +455,7 @@ hr {
         height: 100%;
         padding: 5px, 5px, 5px, 5px;
     }
+
 
 
 }
