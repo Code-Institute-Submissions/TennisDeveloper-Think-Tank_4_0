@@ -560,4 +560,8 @@ hr {
         height: 100%;
         padding: 0px;
     }
+
+    #linked_in_design {
+        font-size: smaller;
+    }
 }
