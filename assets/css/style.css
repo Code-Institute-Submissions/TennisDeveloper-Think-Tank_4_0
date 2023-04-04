@@ -361,6 +361,8 @@ hr {
         margin: 0 auto;
         width: 60%;
         right: 150px;
+        right: 0;
+        left: 0;
     }
 
     #special-consultancy {
@@ -416,6 +418,8 @@ hr {
     #cover-text {
         margin: 0 auto;
         width: 50%;
+        right: 0;
+        left: 0;
     }
 
     #cover-text h2 {
@@ -445,6 +449,8 @@ hr {
     #cover-text {
         margin: 0 auto;
         right: 120px;
+        right: 0;
+        left: 0;
     }
 
     #special-heading {
@@ -469,6 +475,8 @@ hr {
         margin: 0 auto;
         width: 45%;
         bottom: 150px;
+        right: 0;
+        left: 0;
     }
     
     #rectangle {
@@ -486,6 +494,12 @@ hr {
     #think-tank-logo {
         text-align: center;
         font-size: 220%;
+        float: none;
+        margin-left: 0;
+    }
+
+    * {
+        text-decoration: none;
     }
 }
 
@@ -496,6 +510,8 @@ hr {
         width: 40%;
         font-size: 100%;
         bottom: 200px;
+        right: 0;
+        left: 0;
     }
     
     #special-heading {
@@ -527,11 +543,10 @@ hr {
         margin: 0 auto;
     }
 
+    
     #think-tank-logo {
-        text-align: center;
         font-size: 200%;
     }
-
 }
 
 @media screen and (max-width: 340px) {
@@ -541,6 +556,8 @@ hr {
         width: 40%;
         font-size: 100%;
         bottom: 200px;
+        right: 0;
+        left: 0;
     }
 
     #special-consultancy {
@@ -562,8 +579,6 @@ hr {
     }
 
     #think-tank-logo {
-        text-align: center;
         font-size: 180%;
     }
-
 }
